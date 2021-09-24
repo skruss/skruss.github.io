@@ -13,6 +13,7 @@ a{
     color: #fff;
     font-family: 'Be Vietnam Pro', sans-serif;
 }
+
 .header__section {
     display: flex;
     align-items: center;
@@ -26,12 +27,23 @@ a{
     margin-left: 5px;
     
 }
+.header__item__ButLog {
+    display: flex;
+    padding: 10px 15px;
+    margin-left: 5px;
+    align-content: center;
+    vertical-align: central;
+    height: 50px;
+}
 .header__item__logo {
     display: flex;
-    margin-left: 5px;
-    height:125px;
+    padding-left: 175%;
+    height:150px;
 }
-.header__item:hover{
+header__item__ButLog{
+
+}
+.header__item:hover {
     background-color: #808080;
     border-radius: 1px;
 }
@@ -40,7 +52,7 @@ a{
     color: #fff;
     font-family: 'Be Vietnam Pro', sans-serif;
     width: 100%;
-    padding-top: 10000000000000px;
+    padding-top: 1000px;
 }
 
 .container {
