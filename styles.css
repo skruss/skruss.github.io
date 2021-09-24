@@ -1,18 +1,6 @@
-/*body{
-    background-color: hsl(0, 0%, 0%);
-    color: white;
-}
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-right: 70%;
-    <div class="header__item headerButton"><a href="#">Youtube</a></div>
-			<div class="header__item headerButton"><a href="#">Twitch</a></div>
-			<div class="header__item headerButton"><a href="#">Vk</a></div>
-}*/
 body {
     margin: 0px;
+    background-color: #000000;
 }
 a{
     color:#fff;
@@ -49,8 +37,7 @@ a{
 }
 .under {
     display: flex;
-    padding: 500px;
-    background: #000000;
+    padding: 1000px;
     color: #fff;
     font-family: 'Be Vietnam Pro', sans-serif;
 }
